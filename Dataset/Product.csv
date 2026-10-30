@@ -1,0 +1,17 @@
+,Product Info,,,,
+,,,,,
+,,,,,
+ProductID,Sub Category Key,Color,ProductName,RetailPrice,StandardCost
+1,3,Red,Vanilla,23.95,7.55
+2,2,Blue,Chocolate,23.95,7.55
+3,2,Green,Strawberry,23.95,7.55
+4,1,Red,Butterscotch,43.95,13.75
+5,1,Blue,Rocky Road,43.95,13.75
+6,4,Green,Salted Caramel,43.95,13.75
+7,1,Red,Mango,26.95,8.25
+8,3,Blue,Cotton Candy,26.95,8.25
+9,1,Green,Tutti Frutti,26.95,8.25
+10,1,Florescent Pink,Almond Joy,29.95,9.15
+11,4,Florescent Blue,Blueberry,29.95,9.15
+7,1,Red,Mango,26.95,8.25
+10,1,Florescent Pink,Almond Joy,29.95,9.15
